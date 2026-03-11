@@ -1,4 +1,4 @@
-****Customer Churn Prediction & Retention Analysis*****
+****Customer Churn Prediction & Retention Analysis****
 
 **Project Overview**
 Customer churn is a major challenge for subscription-based businesses. When customers leave, companies lose recurring revenue and acquisition costs increase.
