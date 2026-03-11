@@ -82,11 +82,11 @@ These metrics help measure how well the model predicts churned and retained cust
 **Key Insights**
 
 **The analysis revealed several factors influencing customer churn:**
-                  Customers with month-to-month contracts churn more frequently
-                  New customers are more likely to churn
-                  Higher monthly charges increase churn probability
-                  Customers without technical support show higher churn rates
-                  Retention Strategies
+                  ****Customers with month-to-month contracts churn more frequently
+                  ****New customers are more likely to churn
+                  ****Higher monthly charges increase churn probability
+                 **** Customers without technical support show higher churn rates
+                 **** Retention Strategies
 **Based on the analysis, businesses can reduce churn by:**
                   Encouraging customers to move to long-term contracts
                   Offering early retention incentives for new customers
