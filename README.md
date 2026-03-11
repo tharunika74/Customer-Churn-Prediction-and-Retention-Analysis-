@@ -28,36 +28,36 @@ Each row represents a customer and whether they have churned or not.
 **1. Data Understanding**
 Loaded the dataset using Python and explored the structure of the data.
 Key checks performed:
-  Dataset shape
-  Column data types
-  Summary statistics
+  Dataset shape,
+  Column data types,
+  Summary statistics.
   
 **2. Data Cleaning**
 Cleaned the dataset to ensure accurate analysis.
 Steps included:
-  Handling missing values
-  Removing unnecessary columns
-  Checking for duplicate records
-  Converting categorical variables
+  Handling missing values,
+  Removing unnecessary columns,
+  Checking for duplicate records,
+  Converting categorical variables.
   
 **3. Exploratory Data Analysis (EDA)**
 Explored the data to understand customer behavior and churn patterns.
 Key analyses:
-  Churn distribution
-  Churn by contract type
-  Churn by monthly charges
-  Churn by customer tenure
-  Service usage impact on churn
+  Churn distribution,
+  Churn by contract type,
+  Churn by monthly charges,
+  Churn by customer tenure,
+  Service usage impact on churn,
   Visualizations were created using:
-  Matplotlib
-  Seaborn
+  Matplotlib,
+  Seaborn,
   
 **4. Feature Engineering**
 Prepared the data for machine learning by:
-  Encoding categorical variables
-  Selecting relevant features
-  Separating features and target variables
-X → Customer features
+  Encoding categorical variables,
+  Selecting relevant features,
+  Separating features and target variables,
+X → Customer features/
 y → Churn Value
 
 **5. Train Test Split**
@@ -82,16 +82,16 @@ These metrics help measure how well the model predicts churned and retained cust
 **Key Insights**
 
 **The analysis revealed several factors influencing customer churn:**
-                  ****Customers with month-to-month contracts churn more frequently
-                  ****New customers are more likely to churn
-                  ****Higher monthly charges increase churn probability
-                 **** Customers without technical support show higher churn rates
-                 **** Retention Strategies
+                  Customers with month-to-month contracts churn more frequently,
+                  New customers are more likely to churn,
+                  Higher monthly charges increase churn probability,
+                  Customers without technical support show higher churn rates,
+                  Retention Strategies.
 **Based on the analysis, businesses can reduce churn by:**
-                  Encouraging customers to move to long-term contracts
-                  Offering early retention incentives for new customers
-                  Providing better support services
-                  Creating bundle packages for high-charge customers
+                  Encouraging customers to move to long-term contracts,
+                  Offering early retention incentives for new customers,
+                  Providing better support services,
+                  Creating bundle packages for high-charge customers.
 
 **Tools & Technologies**
         Python
